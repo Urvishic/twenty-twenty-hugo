@@ -1,4 +1,4 @@
-baseURL = "https://urvish-test.netlify.com"
+baseURL = "https://urvish-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
